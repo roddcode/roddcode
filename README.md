@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm passionate about coding and creating innovativ
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next](https://img.shields.io/badge/NEXT-21232b?style=for-the-badge&logo=next.js)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![React Native](https://img.shields.io/badge/React%20Native-1473b6?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/Node-6BB56B?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/express-333230?style=for-the-badge&logo=express)
