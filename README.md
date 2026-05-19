@@ -17,8 +17,20 @@ Architecting autonomous systems that close revenue gaps.
 
 ---
 
+### Systems Intelligence
+*High-level capabilities and architectural focus:*
+
+| Domain | Focus Area |
+| :--- | :--- |
+| **Backend** | TypeScript, Node.js, Next.js 15 (App Router) |
+| **Data & Infra** | Neon (Postgres), Drizzle ORM, Upstash (Redis/QStash) |
+| **AI Systems** | Vercel AI SDK, DeepSeek V4, Llama 4, FSM Orchestration |
+| **Resilience** | Circuit Breaking, Exponential Backoff, Idempotency |
+
+---
+
 ### Technical Deep-Dives
-*Curated architecture decisions and essays:*
+*Architecture decisions and production essays:*
 
 * **[Network Asymmetry: Resilience in Distributed Systems](/writing/network-asymmetry)**
 * **[Deterministic AI: Validating LLM Output in Production](/writing/deterministic-ai)**
@@ -29,21 +41,13 @@ Architecting autonomous systems that close revenue gaps.
 ### Current Focus
 * **Soff.IA:** Building an FSM-based orchestration layer for medical appointment booking.
 * **Resilient-Fetcher:** Refining circuit-breaking primitives for serverless environments.
-* **Edge Optimization:** Optimizing cold-start performance in Vercel/Edge runtime for real-time LLM interactions.
-
----
-
-### Systems Intelligence
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roddcode&show_icons=false&theme=transparent&hide_border=true&title_color=c2410c&text_color=ffffff&icon_color=c2410c" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roddcode&layout=compact&theme=transparent&hide_border=true&title_color=c2410c&text_color=ffffff" alt="Top Langs" />
-</div>
+* **Edge Optimization:** Optimizing cold-start performance in Vercel/Edge runtime.
 
 ---
 
 ### Selected Engineering Work
-* **[Soff.IA Core](https://github.com/TU_USUARIO/soffia-core):** Autonomous agent logic powered by reactive state machines and Zod-enforced tool calling.
-* **[SSR Auth Pipeline](https://github.com/TU_USUARIO/auth-pipeline):** Zero-client-side token lifecycle management utilizing HttpOnly cookies and silent token rotation.
+* **[Soff.IA Core](https://github.com/roddcode/soffia-core):** Autonomous agent logic powered by reactive state machines and Zod-enforced tool calling.
+* **[SSR Auth Pipeline](https://github.com/roddcode/auth-pipeline):** Zero-client-side token lifecycle management utilizing HttpOnly cookies.
 
 ---
 
