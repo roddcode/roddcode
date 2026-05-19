@@ -1,5 +1,5 @@
 <div align="right">
-  <code>Lima, PE | System Nominal</code>
+  <code>Lima, PE</code>
 </div>
 
 # Alejandro Alvarado
