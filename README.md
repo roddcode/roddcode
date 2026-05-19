@@ -23,7 +23,7 @@ Architecting autonomous systems that close revenue gaps.
 | Domain | Focus Area |
 | :--- | :--- |
 | **Backend** | TypeScript, Node.js, Next.js 15 (App Router) |
-| **Data & Infra** | Neon (Postgres), Drizzle ORM, Upstash (Redis/QStash) |
+| **Data & Infra** | Postgres, Drizzle ORM, Upstash (Redis/QStash) |
 | **AI Systems** | Vercel AI SDK, DeepSeek V4, Llama 4, FSM Orchestration |
 | **Resilience** | Circuit Breaking, Exponential Backoff, Idempotency |
 
