@@ -52,6 +52,6 @@ Architecting autonomous systems that close revenue gaps.
 ---
 
 ### Connection
-**[roddcode.com](https://roddcode.com)** &nbsp; • &nbsp; **[LinkedIn](https://linkedin.com/in/alvaro-dev)** &nbsp; • &nbsp; **[Email](mailto:devale.alvarado@gmail.com)**
+**[roddcode.com](https://roddcode.com)** &nbsp; • &nbsp; **[LinkedIn](https://linkedin.com/in/alejandro-alvarado-roddcode)** &nbsp; • &nbsp; **[Email](mailto:devale.alvarado@gmail.com)**
 
 > "The browser renders. The server authenticates. The architecture dictates."
