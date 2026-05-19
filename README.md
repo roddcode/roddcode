@@ -1,11 +1,12 @@
 <div align="right">
-  <code>Lima, PE</code>
+  <code>Lima, PE | System Nominal</code>
 </div>
 
 # Alejandro Alvarado
 ### AI Infrastructure Engineer
 
 Architecting autonomous systems that close revenue gaps. 
+*Bridging the gap between non-deterministic models and production-grade stability.*
 
 ---
 
@@ -18,35 +19,35 @@ Architecting autonomous systems that close revenue gaps.
 
 ### Technical Deep-Dives
 *Curated architecture decisions and essays:*
-- [Network Asymmetry: Why Your App Needs a Resilience Layer](/writing/network-asymmetry)
-- [Deterministic AI: Validating LLM Output in Production](/writing/deterministic-ai)
-- [Server-Centric State: Authentication Patterns for Next.js](/writing/server-centric-state)
+
+* **[Network Asymmetry: Resilience in Distributed Systems](/writing/network-asymmetry)**
+* **[Deterministic AI: Validating LLM Output in Production](/writing/deterministic-ai)**
+* **[Server-Centric State: Authentication Patterns for Next.js](/writing/server-centric-state)**
 
 ---
 
 ### Current Focus
 * **Soff.IA:** Building an FSM-based orchestration layer for medical appointment booking.
 * **Resilient-Fetcher:** Refining circuit-breaking primitives for serverless environments.
-* **Infrastructure:** Optimizing cold-start performance in Vercel/Edge runtime for real-time LLM interactions.
+* **Edge Optimization:** Optimizing cold-start performance in Vercel/Edge runtime for real-time LLM interactions.
 
 ---
 
-### Code Intelligence
-*(Usa estos widgets dinámicos, no stickers estáticos. Configúralos en modo 'dark' o 'transparent')*
-
+### Systems Intelligence
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=c2410c&text_color=ffffff" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=c2410c&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=false&theme=transparent&hide_border=true&title_color=c2410c&text_color=ffffff&icon_color=c2410c" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=c2410c&text_color=ffffff" alt="Top Langs" />
 </div>
 
 ---
 
-### Selected Projects
-*(No listes todo. Lista solo lo que tiene "Product-Market Fit" o es tecnológicamente complejo)*
-* **Soff.IA Core:** Autonomous agent logic + FSM orchestrator.
-* **SSR Auth Pipeline:** Zero-client-side token lifecycle manager.
+### Selected Engineering Work
+* **[Soff.IA Core](https://github.com/TU_USUARIO/soffia-core):** Autonomous agent logic powered by reactive state machines and Zod-enforced tool calling.
+* **[SSR Auth Pipeline](https://github.com/TU_USUARIO/auth-pipeline):** Zero-client-side token lifecycle management utilizing HttpOnly cookies and silent token rotation.
 
 ---
 
 ### Connection
-**[roddcode.com](https://roddcode.com)** | **[LinkedIn](https://linkedin.com/in/alvaro-dev)** | **[Email](mailto:devale.alvarado@gmail.com)**
+**[roddcode.com](https://roddcode.com)** &nbsp; • &nbsp; **[LinkedIn](https://linkedin.com/in/alvaro-dev)** &nbsp; • &nbsp; **[Email](mailto:devale.alvarado@gmail.com)**
+
+> "The browser renders. The server authenticates. The architecture dictates."
