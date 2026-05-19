@@ -1,36 +1,52 @@
-<h1 align="center" style="display: flex; justify-content: center; align-items: center;">
-  Hi I'm Roddcode
-  <img src="https://i.postimg.cc/PrCPD3D4/1f44b.gif" alt="Imagen" width="30" style="margin-left: 10px;">
-</h1>
+<div align="right">
+  <code>Lima, PE</code>
+</div>
 
-Welcome to my GitHub profile! I'm passionate about coding and creating innovative solutions. Here's a glimpse into my tech stack and favorite tools:
+# Alejandro Alvarado
+### AI Infrastructure Engineer
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next](https://img.shields.io/badge/NEXT-21232b?style=for-the-badge&logo=next.js)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![React Native](https://img.shields.io/badge/React%20Native-1473b6?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/Node-6BB56B?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/express-333230?style=for-the-badge&logo=express)
-![Python](https://img.shields.io/badge/Python-21232b?style=for-the-badge&logo=python)
-![Static Badge](https://img.shields.io/badge/DJango-0f4f37?style=for-the-badge&logo=django)
-![SQlite](https://img.shields.io/badge/SQLite-%231572B6.svg?style=for-the-badge&logo=sqlite)
-![MySQL](https://img.shields.io/badge/mysql-333230?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+Architecting autonomous systems that close revenue gaps. 
 
-# 🛠️ Tools:
-![Docker](https://img.shields.io/badge/docker-333230?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-21232b?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code)
-![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack)
-![Trello](https://img.shields.io/badge/trello-007ACC?style=for-the-badge&logo=trello)
+---
 
-# 📚 Aditional Information
+### Engineering Philosophy
+* **Network Asymmetry:** Every external dependency is a potential failure point. Resilience is structural.
+* **Server-Centric State:** The browser is a rendering surface. Critical state lives on the server.
+* **Deterministic AI:** LLMs are non-deterministic; the architecture around them must be the opposite.
 
-Feel free to explore my projects and repositories. Let's connect and collaborate on exciting ventures!
+---
 
-More obout me. 👉🏽 [roddcode.xyz](https://roddcode.xyz) (In coming...)
+### Technical Deep-Dives
+*Curated architecture decisions and essays:*
+- [Network Asymmetry: Why Your App Needs a Resilience Layer](/writing/network-asymmetry)
+- [Deterministic AI: Validating LLM Output in Production](/writing/deterministic-ai)
+- [Server-Centric State: Authentication Patterns for Next.js](/writing/server-centric-state)
+
+---
+
+### Current Focus
+* **Soff.IA:** Building an FSM-based orchestration layer for medical appointment booking.
+* **Resilient-Fetcher:** Refining circuit-breaking primitives for serverless environments.
+* **Infrastructure:** Optimizing cold-start performance in Vercel/Edge runtime for real-time LLM interactions.
+
+---
+
+### Code Intelligence
+*(Usa estos widgets dinámicos, no stickers estáticos. Configúralos en modo 'dark' o 'transparent')*
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=c2410c&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=c2410c&text_color=ffffff" />
+</div>
+
+---
+
+### Selected Projects
+*(No listes todo. Lista solo lo que tiene "Product-Market Fit" o es tecnológicamente complejo)*
+* **Soff.IA Core:** Autonomous agent logic + FSM orchestrator.
+* **SSR Auth Pipeline:** Zero-client-side token lifecycle manager.
+
+---
+
+### Connection
+**[roddcode.com](https://roddcode.com)** | **[LinkedIn](https://linkedin.com/in/alvaro-dev)** | **[Email](mailto:devale.alvarado@gmail.com)**
