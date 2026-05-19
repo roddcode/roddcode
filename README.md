@@ -32,22 +32,16 @@ Architecting autonomous systems that close revenue gaps.
 ### Technical Deep-Dives
 *Architecture decisions and production essays:*
 
-* **[Network Asymmetry: Resilience in Distributed Systems](/writing/network-asymmetry)**
-* **[Deterministic AI: Validating LLM Output in Production](/writing/deterministic-ai)**
-* **[Server-Centric State: Authentication Patterns for Next.js](/writing/server-centric-state)**
+* **[Network Asymmetry: Resilience in Distributed Systems](https://roddcode.com/writing/network-asymmetry)**
+* **[Deterministic AI: Validating LLM Output in Production](https://roddcode.com/writing/deterministic-ai)**
+* **[Server-Centric State: Authentication Patterns for Next.js](https://roddcode.com/writing/server-centric-state)**
 
 ---
 
-### Current Focus
-* **Soff.IA:** Building an FSM-based orchestration layer for medical appointment booking.
-* **Resilient-Fetcher:** Refining circuit-breaking primitives for serverless environments.
-* **Edge Optimization:** Optimizing cold-start performance in Vercel/Edge runtime.
-
----
-
-### Selected Engineering Work
+### Open Source Primitives & Infrastructure
+* **[resilient-fetcher](https://github.com/roddcode/resilient-fetcher):** TypeScript utility for Next.js wrapping native fetch with exponential backoff and circuit breaking. *(v1.0.0 Live)*
+* **[ssr-auth-pipeline](https://github.com/roddcode/ssr-auth-pipeline):** Zero-client-side OAuth2 token lifecycle manager. *(In Development)*
 * **[Soff.IA Core](https://github.com/roddcode/soffia-core):** Autonomous agent logic powered by reactive state machines and Zod-enforced tool calling.
-* **[SSR Auth Pipeline](https://github.com/roddcode/auth-pipeline):** Zero-client-side token lifecycle management utilizing HttpOnly cookies.
 
 ---
 
