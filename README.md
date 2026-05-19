@@ -35,8 +35,8 @@ Architecting autonomous systems that close revenue gaps.
 
 ### Systems Intelligence
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=false&theme=transparent&hide_border=true&title_color=c2410c&text_color=ffffff&icon_color=c2410c" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=c2410c&text_color=ffffff" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roddcode&show_icons=false&theme=transparent&hide_border=true&title_color=c2410c&text_color=ffffff&icon_color=c2410c" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roddcode&layout=compact&theme=transparent&hide_border=true&title_color=c2410c&text_color=ffffff" alt="Top Langs" />
 </div>
 
 ---
