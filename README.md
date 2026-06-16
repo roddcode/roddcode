@@ -2,50 +2,29 @@
   <code>Lima, PE</code>
 </div>
 
-# Alejandro Alvarado
-### AI Infrastructure Engineer
+### Alejandro Alvarado
 
-Architecting autonomous systems that close revenue gaps. 
-*Bridging the gap between non-deterministic models and production-grade stability.*
+Fullstack Engineer & AI Systems. ex-Movistar (WPP).
 
----
-
-### Engineering Philosophy
-* **Network Asymmetry:** Every external dependency is a potential failure point. Resilience is structural.
-* **Server-Centric State:** The browser is a rendering surface. Critical state lives on the server.
-* **Deterministic AI:** LLMs are non-deterministic; the architecture around them must be the opposite.
+**The LLM assists. The database decides.**
 
 ---
 
-### Systems Intelligence
-*High-level capabilities and architectural focus:*
+**Now**
 
-| Domain | Focus Area |
-| :--- | :--- |
-| **Backend** | TypeScript, Node.js, Next.js 15 (App Router), Python |
-| **Data & Infra** | Postgres, MongoDB, Drizzle ORM, Upstash (Redis/QStash) |
-| **AI Systems** | Vercel AI SDK, DeepSeek V4, Llama 4, FSM Orchestration |
-| **Resilience** | Circuit Breaking, Exponential Backoff, Idempotency |
+- [Soff.ia](https://github.com/roddcode/soff-ia-core) — autonomous AI agent for clinics. 14-state FSM. Zero double-bookings. 24/7.
+- [reactive-fsm](https://npmjs.com/package/reactive-fsm) — deterministic agent control library. MIT. 86 tests. 5 adapters.
 
----
+**Before**
 
-### Technical Deep-Dives
-*Architecture decisions and production essays:*
+- VML (WPP) for Movistar (Telefónica) — built METEOR CRM, replaced InConcert, cut process time 53%.
 
-* **[Network Asymmetry: Resilience in Distributed Systems](https://roddcode.com/writing/network-asymmetry)**
-* **[Deterministic AI: Validating LLM Output in Production](https://roddcode.com/writing/deterministic-ai)**
-* **[Server-Centric State: Authentication Patterns for Next.js](https://roddcode.com/writing/server-centric-state)**
+**Writing**
+
+- Architecture essays on deterministic AI, resilience, and production systems. [roddcode.com](https://roddcode.com)
 
 ---
 
-### Open Source Primitives & Infrastructure
-* **[resilient-fetcher](https://github.com/roddcode/resilient-fetcher):** TypeScript utility for Next.js wrapping native fetch with exponential backoff and circuit breaking. *(v1.0.0 Live)*
-* **[ssr-auth-pipeline](https://github.com/roddcode/ssr-auth-pipeline):** Zero-client-side OAuth2 token lifecycle manager. *(In Development)*
-* **[Soff.IA Core](https://github.com/roddcode/soffia-core):** Autonomous agent logic powered by reactive state machines and Zod-enforced tool calling.
+> "Build systems where the LLM is not the CEO of your database."
 
----
-
-### Connection
-**[roddcode.com](https://roddcode.com)** &nbsp; • &nbsp; **[LinkedIn](https://linkedin.com/in/alejandro-alvarado-roddcode)** &nbsp; • &nbsp; **[Email](mailto:devale.alvarado@gmail.com)**
-
-> "The browser renders. The server authenticates. The architecture dictates."
+**[roddcode.com](https://roddcode.com)**   •   **[LinkedIn](https://linkedin.com/in/alejandro-alvarado-roddcode)**   •   **[Email](mailto:devale.alvarado@gmail.com)**
