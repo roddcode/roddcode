@@ -12,8 +12,9 @@ Fullstack Engineer & AI Systems. ex-Movistar (WPP).
 
 **Now**
 
-- [Soff.ia](https://github.com/roddcode/soff-ia-core) — autonomous AI agent for clinics. 14-state FSM. Zero double-bookings. 24/7.
+- [exactly-once](https://github.com/roddcode/exactly-once) — domain-checked commits for AI agent actions. Propose / commit / get over PostgreSQL. MIT.
 - [reactive-fsm](https://npmjs.com/package/reactive-fsm) — deterministic agent control library. MIT. 86 tests. 5 adapters.
+- [Soff.ia](https://roddcode.com/#casos) — AI system for clinics in production. 14-state FSM. Zero double-bookings. 24/7.
 
 **Before**
 
@@ -27,4 +28,4 @@ Fullstack Engineer & AI Systems. ex-Movistar (WPP).
 
 > "Build systems where the LLM is not the CEO of your database."
 
-**[roddcode.com](https://roddcode.com)**   •   **[LinkedIn](https://linkedin.com/in/alejandro-alvarado-roddcode)**   •   **[Email](mailto:devale.alvarado@gmail.com)**
+**[roddcode.com](https://roddcode.com)**   •   **[LinkedIn](https://linkedin.com/in/alejandro-alvarado-roddcode)**   •   **[Email](mailto:roddcode.dev@gmail.com)**
